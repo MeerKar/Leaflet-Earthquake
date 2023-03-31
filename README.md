@@ -20,7 +20,7 @@ In this task with developing a way to visualize USGS data that will allow them t
 other government organizations (and hopefully secure more funding) on issues facing our planet.
 
 
-The iproject is  broken into two parts:
+The particular project is  broken into two parts:
 
 Part 1: Create the Earthquake Visualization
 
@@ -77,8 +77,7 @@ Added layer controls to the map.
 
 <img width="1122" alt="image" src="https://user-images.githubusercontent.com/116701851/229044171-7cb6866f-5493-4a3a-a464-6de7c5c349e7.png">
 
-
-
+You can find the visualization link on  file:///Users/meeragnair/Desktop/leaflet/Starter_Code%203/Leaflet-/index.html
 
 
 
